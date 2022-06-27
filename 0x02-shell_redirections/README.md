@@ -1,2 +1,2 @@
 #!/bin/bash
-display a file
+Display the content of /etc/passwd and /etc/hosts
