@@ -1,2 +1,2 @@
 #!/bin/bash
-script that takes a list of words as input and prints only words
+Display lines containing the pattern “root” from the file /etc/passwd
