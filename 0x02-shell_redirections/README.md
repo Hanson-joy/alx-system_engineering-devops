@@ -1,2 +1,2 @@
 #!/bin/bash
-Write a script that reverse its input
+script that displays all users and their home directories, sorted by users
